@@ -3,3 +3,4 @@ we must find and understand how casual riders and annual members use Cyclistic b
 to convert casual riders into annual members.
 
 For Dashboard follow this link: https://www.novypro.com/project/cyclistic-case-study
+For Medium Blog follow the link: https://medium.com/@jovite.jeffrin.louie.a/538a83fff3ae
