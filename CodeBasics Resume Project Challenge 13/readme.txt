@@ -1,1 +1,1 @@
-Project overview link: https://codebasics.io/challenge/codebasics-resume-project-challenge
+Project link: https://codebasics.io/challenge/codebasics-resume-project-challenge
